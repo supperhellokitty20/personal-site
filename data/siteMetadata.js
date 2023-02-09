@@ -1,5 +1,5 @@
 const siteMetadata = {
-  title: 'Nothing but empty',
+  title: '',
   author: 'Tuan Nguyen',
   headerTitle: 'Tuan Nguyen',
   description: 'This is my blog post',
@@ -11,14 +11,12 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'tuanheo004@icloud.com',
-  github: 'https://github.com/maqi1520',
-  juejin: 'https://juejin.cn/user/2189882895384093',
-  zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
+  github: '',
+  juejin: '',
+  zhihu: '',
   locale: 'en-VN',
   welcome: 'Boom you whore',
   analytics: {
-    //如果要使用分析提供程序，则必须将其添加到。
-    //`next.config.js`文件中的内容安全策略。
     // 支持 plausible, simpleAnalytics, umami or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
     simpleAnalytics: false, // true or false

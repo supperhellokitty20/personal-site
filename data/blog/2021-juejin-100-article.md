@@ -1,10 +1,10 @@
 ---
-title: '盘点掘金 2021 点赞高达 6000，收藏过万的文章'
+title: 'Work in progress'
 date: '2021/12/29'
 lastmod: '2022/03/10'
-tags: [前端, 掘金社区]
+tags: [Dancing, Working]
 draft: false
-summary: '盘点那些点赞高达 6000，收藏过万的文章，前端居多，看完后保证有很大收获，收藏这一篇就够了，2022 继续学习。'
+summary: 'Dont waste your time'
 images:
   [
     'https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/30186eea195046b0966478f877db18a8~tplv-k3u1fbpfcp-watermark.image?',

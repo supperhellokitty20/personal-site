@@ -45,7 +45,7 @@ export default function Home({ posts }: InferGetStaticPropsType<typeof getStatic
             className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
             aria-label="全部文章"
           >
-            全部文章 &rarr;
+            All articles &rarr;
           </Link>
         </div>
       )}
