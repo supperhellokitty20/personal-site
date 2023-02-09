@@ -15,7 +15,7 @@ const siteMetadata = {
   juejin: 'https://juejin.cn/user/2189882895384093',
   zhihu: 'https://www.zhihu.com/people/xiao-ma-15-3',
   locale: 'en-VN',
-  welcome: 'Welcome to my blog',
+  welcome: 'Boom you whore',
   analytics: {
     //如果要使用分析提供程序，则必须将其添加到。
     //`next.config.js`文件中的内容安全策略。
@@ -49,7 +49,7 @@ const siteMetadata = {
       metadata: '0',
       // theme example: light, dark, dark_dimmed, dark_high_contrast
       // transparent_dark, preferred_color_scheme, custom
-      theme: 'light',
+      theme: 'dark_dimmed',
       // theme when dark mode
       darkTheme: 'transparent_dark',
       // If the theme option above is set to 'custom`
@@ -65,7 +65,7 @@ const siteMetadata = {
       label: '', // label (optional): Comment 💬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
-      theme: '',
+      theme: 'github-dark-orange',
       // theme when dark mode
       darkTheme: '',
     },
