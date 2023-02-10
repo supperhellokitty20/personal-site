@@ -15,7 +15,7 @@ const siteMetadata = {
   juejin: '',
   zhihu: '',
   locale: 'en-VN',
-  welcome: 'Boom you whore',
+  welcome: 'A warm welcome to my website, where creativity knows no bounds.',
   analytics: {
     // 支持 plausible, simpleAnalytics, umami or googleAnalytics
     plausibleDataDomain: '', // e.g. tailwind-nextjs-starter-blog.vercel.app
